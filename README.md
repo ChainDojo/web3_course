@@ -1,5 +1,5 @@
-# Course Web3
-**Course Web3** 's a series of lectures on key knowledge about web3 such as how blockchain and how to write smart contracts work on the newest and most modern web3 platforms today.
+# Web3 Course
+**Web3 Course** 's a series of lectures on key knowledge about web3 such as how blockchain and how to write smart contracts work on the newest and most modern web3 platforms today.
 
 Born with the goal of making it easy for everyone to get acquainted and master the every language to write smart contracts on any web3 platform today. 
 
