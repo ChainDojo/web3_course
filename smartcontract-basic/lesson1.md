@@ -11,7 +11,7 @@ Goal:
 
 In web2, for those who have developed projects (from frontend, backend, devops, management, etc.), most will understand the entire process of a product. I will summarize through the diagram as follows:
 
-![Screenshot from 2024-04-12 01-23-57.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f15478a-3249-4e2c-b9cf-8acaf082a06a/5248901a-d754-4963-8f67-e908ffe6d746/Screenshot_from_2024-04-12_01-23-57.png)
+![flow_web2](./static/imgs/flow_web2.png)
 
 - Users will send requests such as creating or retrieving information on one or more objects through the interface (Frontend)
 - The frontend will send requests to the backend via some protocol like http or grpc.
@@ -25,7 +25,7 @@ Web3 solves this problem by storing data distributedly (stores data in many plac
 
 And I'm going to redraw the flow a little bit of how a web3 application works:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f15478a-3249-4e2c-b9cf-8acaf082a06a/269be998-a525-420b-b0f3-eb77e74f3a03/Untitled.png)
+![flow_web3](./static/imgs/flow_web3.png)
 
 As you can see, with decentralized data storage, moreover in web3, everything about data is transparent, anyone can see it. It has solved many problems such as finance, education, and health. The most prominent of these is the financial sector. 
 
