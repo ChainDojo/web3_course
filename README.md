@@ -3,7 +3,7 @@
 
 Born with the goal of making it easy for everyone to get acquainted and master the every language to write smart contracts on any web3 platform today. 
 
-* Fact: Submit your assignment according to the following steps: 
+*Fact: Submit your assignment according to the following steps: 
 - User forks repo
 - create branch according to the syntax: lesson_number_yourgithub
 - create pull request and Chaindojo instructor will grade the assignment and return the results
